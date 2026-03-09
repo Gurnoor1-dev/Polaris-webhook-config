@@ -102,4 +102,4 @@ async function handleATC() {
 }
 
 if (table === "pireps") handlePirep()
-if (table === "atc_pirep") handleATC()
+if (table === "atc_pireps") handleATC()
